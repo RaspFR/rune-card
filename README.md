@@ -20,7 +20,7 @@ Download and install [sw-exporter](https://github.com/Xzandro/sw-exporter)
 
 To install the Rune Card plugin, follow these steps:
 
-1. Download the Rune Card plugin `.asar` file
+1. Download the Rune Card plugin `.asar` file of the latest [github release](https://github.com/RaspFR/rune-card/releases)
 2. Place this file in your SW-Exporter `plugins` folder.
 3. Restart SW-Exporter so that the plugin is recognized.
 
