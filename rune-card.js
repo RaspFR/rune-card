@@ -18,6 +18,11 @@ module.exports = {
   },
   pluginName: "🧙RuneCard",
   pluginDescription: "Logs runes details as they drop.",
+  version: "1.0.0",
+  autoUpdate: {
+    versionURL:
+      "https://gist.githubusercontent.com/RaspFR/2bdda6158311a9441d377fc7ac5d43b3/raw/2d48e890d346df9d36cab35262604a3a3814f70f/runecard.yml",
+  },
 
   init(proxy) {
     proxy.on("apiCommand", (req, resp) => {
