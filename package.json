@@ -1,6 +1,6 @@
 {
   "name": "runecard-plugin",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "description": "This plugin show a runecard with rune details each time you drop a rune",
   "main": "rune-card.js",
   "scripts": {
