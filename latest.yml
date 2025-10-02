@@ -1,6 +1,6 @@
 version: 1.2.0
 file: rune-card_2025_10_02.asar
-url: https://raw.githubusercontent.com/RaspFR/rune-card/main/rune-card_2025_10_02.asar
-sha512: db6b213e94fce5c3362f2d003c79a57a64bd51f1b6d077c8e9b4afcea9972e0a03cf50b5c8bbc79b69324d12aa499f071e9d7a42beba1d4c11c2757aa8e42e2f
-size: 8
-releaseDate: 2025-10-02T17:38:14.137Z
+url: https://github.com/RaspFR/rune-card/releases/download/v1.2.0/rune-card_2025_10_02.asar
+sha512: b6953596afbe7ae30996c1be3d43365b3f5171e1cd013603b27130e9e02b89801f2866e38de0518eb21c9e728df8fb756f53c7002933b5afaa1a670df1a4c0ac
+size: 65545
+releaseDate: 2025-10-02T18:31:10.399Z
