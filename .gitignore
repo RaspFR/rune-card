@@ -1,0 +1,31 @@
+# Exclure les scripts PowerShell
+*.ps1
+
+# Exclure les fichiers logs
+*.log
+
+# Exclure les fichiers temporaires ou de sauvegarde
+*.tmp
+*.bak
+
+# Exclure les fichiers de configuration système
+.DS_Store
+Thumbs.db
+
+# Exclure les dossiers générés par des IDEs
+.vscode/
+.idea/
+
+# Exclure les binaires ou les fichiers compilés
+*.exe
+*.dll
+
+# Exclure les fichiers node_modules (si un projet Node.js est utilisé)
+node_modules/
+
+# Exclure les fichiers de build
+dist/
+build/
+
+# Exclure le dossier update
+update/
